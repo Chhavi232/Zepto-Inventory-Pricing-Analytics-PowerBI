@@ -8,7 +8,7 @@ The main objective of this project is to understand inventory distribution, pric
 
 ## Dashboard Preview
 
-![Zepto Inventory and Pricing Analytics Dashboard](Zepto_Dashboard.png)
+![Zepto Inventory and Pricing Analytics Dashboard](Zepto_Dashboard.pbix)
 
 ## Key Performance Indicators
 
